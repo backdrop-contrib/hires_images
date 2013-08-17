@@ -1,4 +1,4 @@
 name: 'Hi-Res Images'
 type: module
-description: 'Enables images to have a higher resolution than their CSS dimensions.'
+description: 'Enables images to have twice the resolution.'
 core: 8.x
