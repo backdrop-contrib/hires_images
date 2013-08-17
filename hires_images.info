@@ -1,0 +1,3 @@
+name = Hi-Res Images
+description = Enables images to have twice the resolution.
+core = 7.x
