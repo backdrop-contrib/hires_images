@@ -10,7 +10,7 @@
 function hires_images_image_effect_info() {
   $effects = array(
     'image_hires' => array(
-      'label' => t("Hi-Res (2x)"),
+      'label' => t("Hi-Res (x2)"),
       'help' => t("<img> dimensions will be half the dimensions of the styled image."),
       'effect callback' => 'hires_images_effect',
       'dimensions callback' => 'hires_images_dimensions',
