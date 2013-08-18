@@ -45,6 +45,8 @@ function hires_images_effect($image, array $data) {
  *   An array of attributes to use when performing the effect.
  */
 function hires_images_dimensions(array &$dimensions, array $data) {
-  $dimensions['width'] /= 2;
-  $dimensions['height'] /= 2;
+  if (isset($dimensions['width']) && isset($dimensions['height'])) {
+    $dimensions['width'] /= 2;
+    $dimensions['height'] /= 2;
+  }
 }
