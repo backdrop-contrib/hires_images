@@ -1,3 +1,5 @@
 name = Hi-Res Images
 description = Enables images to have twice the resolution.
 core = 7.x
+backdrop = 1.x
+version = 1.0.0
