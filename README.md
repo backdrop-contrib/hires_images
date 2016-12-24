@@ -1,5 +1,5 @@
 Hi-Res Images
----------------------
+=============
 
 Provides for Hi-Res images. This technique does not use JavaScript.
 
